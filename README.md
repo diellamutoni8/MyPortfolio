@@ -21,7 +21,7 @@ My Portfolio is a landing page that describes who I am ,my background, interests
 
    1.open your github account. 
    
-   2.follow this link https://github.com/diellamutoni8/my-biography.git to go to the project.
+   2.follow this link https://github.com/diellamutoni8/MyPortfolio.git to go to the project.
    
    3.click on the the green button and copy the link given.
    
@@ -29,7 +29,7 @@ My Portfolio is a landing page that describes who I am ,my background, interests
    
    5.enter this command: git init , to initialize the git repository. 
    
-   6.enter the command : git clone and paste the link you copied. example: git clone https://github.com/diellamutoni8/my-biography.git
+   6.enter the command : git clone and paste the link you copied. example: git clone https://github.com/diellamutoni8/MyPortfolio.git
    
 # 5. See the project online
 https://diellamutoni8.github.io/MyPortfolio/
