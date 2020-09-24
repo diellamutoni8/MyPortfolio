@@ -32,6 +32,7 @@ My Portfolio is a landing page that describes who I am ,my background, interests
    6.enter the command : git clone and paste the link you copied. example: git clone https://github.com/diellamutoni8/my-biography.git
    
 # 5. See the project online
+https://diellamutoni8.github.io/MyPortfolio/
 
 # 6. License
 
